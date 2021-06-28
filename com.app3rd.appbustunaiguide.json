@@ -69,7 +69,7 @@
 "Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
-"enable_Share_button" : false,
+"enable_Share_button" : true,
 "Share_TXT" : "Supperr APPS Download Now",
 "More_Button" : "Share Via WhatsApp",
 "Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.ganim.guide.bustunai.earnmoney&hl=en"
