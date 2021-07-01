@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://godevlaela-bustunai.blogspot.com",
+"HOMEURL" : "https://godev3rdapp-bustunai.blogspot.com/",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Status Server Ready . . .",
@@ -35,9 +35,9 @@
 
 "STARAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
-"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
-"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
+"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_NATIV" : "ca-app-pub-",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -68,7 +68,7 @@
 
 "Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bintang 5 ya :) \n\n Klik link Tujuan (nanti ke laman bustunai resmi) :)",
 "More_Button" : "Share Aplikasi Ini",
-"Url_More_Apps" : "https://s.id/ptknew",
+"Url_More_Apps" : "-",
  
  "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
