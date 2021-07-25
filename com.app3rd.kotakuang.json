@@ -18,11 +18,12 @@
 // Mode UNITY       Unity backup Startapp
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
+ 
 "PENGATURAN_IKLAN_banner" : "UNITY",
 "PENGATURAN_IKLAN_inter" : "UNITY",
 "PENGATURAN_IKLAN_native" : "UNITY",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 3,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -39,12 +40,13 @@
 "ADMOB_INTER" : "ca-app-pub-",
 "ADMOB_NATIV" : "ca-app-pub-",
 
-"hpk_alien" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
+"hpk_alien" : "Aplikasi Kotak Uang Penghasil saldo dana",
+"HPK_ADMOB1" : "bisnis penghasil uang tanpa modal",
+"HPK_ADMOB2" : "apk cari uang cepat",
+"HPK_ADMOB3" : "game penghasil uang dana",
+"HPK_ADMOB4" : "penghasil uang di internet tanpa modal",
+"HPK_ADMOB5" : "aplikasi yang dapat menghasilkan uang banyak",
+ 
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -53,10 +55,10 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
-"UNITY_TEST_MODE" : "true",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4231193",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
