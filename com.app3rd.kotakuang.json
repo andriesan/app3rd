@@ -19,9 +19,9 @@
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
  
-"PENGATURAN_IKLAN_banner" : "UNITY",
-"PENGATURAN_IKLAN_inter" : "UNITY",
-"PENGATURAN_IKLAN_native" : "UNITY",
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
 "INTER_COUNT" : 3,
 
@@ -36,9 +36,9 @@
 
 "STARAPPID" : "206923686",
 
-"ADMOB_BANNER" : "ca-app-pub-",
-"ADMOB_INTER" : "ca-app-pub-",
-"ADMOB_NATIV" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-4968054330091099/6917516851",
+"ADMOB_INTER" : "ca-app-pub-4968054330091099/9343820904",
+"ADMOB_NATIV" : "ca-app-pub-4968054330091099/1273759197",
 
 "hpk_alien" : "Aplikasi Kotak Uang Penghasil saldo dana",
 "HPK_ADMOB1" : "bisnis penghasil uang tanpa modal",
@@ -71,9 +71,9 @@
 "Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bintang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
-"enable_Share_button" : false,
+"enable_Share_button" : true,
 "Share_TXT" : "Aplikasi Kotak Uang - Download Now",
-"More_Button" : "Unduh Link",
+"More_Button" : "Share",
 "Url_More_Apps" : "http://cdn.shareitgames.com/game-incentive/index.html#/sharev2?code=318831&gUserId=1ccCvAvGWA&beyId=f03777990a4f4c65b8fe4cb660eae015"
 
   }
