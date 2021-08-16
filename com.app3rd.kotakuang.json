@@ -71,7 +71,7 @@
 "Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bintang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
-"enable_Share_button" : false,
+"enable_Share_button" : true,
 "Share_TXT" : "Aplikasi Kotak Uang - Download Now",
 "More_Button" : "Unduh Link",
 "Url_More_Apps" : "http://cdn.shareitgames.com/game-incentive/index.html#/sharev2?code=318831&gUserId=1ccCvAvGWA&beyId=f03777990a4f4c65b8fe4cb660eae015"
