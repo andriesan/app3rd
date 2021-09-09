@@ -35,9 +35,9 @@
 
 "STARAPPID" : "212345679",
 
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
-"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
-"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
 
  
 "hpk_alien" : "Zelle Bank Of America",
@@ -67,7 +67,7 @@
 "Button_Rating" : "RATING NOW",
 
 
-"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Exit_Popup_Dialog" : "Help give us a 5 star rating, so we keep the spirit of providing the latest updates",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
