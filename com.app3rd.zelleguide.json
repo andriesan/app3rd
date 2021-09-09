@@ -1,10 +1,10 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "https://godev3rdapp-zelle.blogspot.com",
  
  // testing server json yang dipakai
-"Json_popup_Wait" : "Server Ready . . . v19j13",
+"Json_popup_Wait" : "Server Ready . . .",
 
 
 "MODE_NO_ADS" : true,
@@ -70,7 +70,7 @@
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
-"Share_TXT" : "Supperr APPS Download Now",
+"Share_TXT" : "Zelle Guide - Download Now",
 "More_Button" : "Share Via WhatsApp",
 "Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
 
