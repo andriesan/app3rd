@@ -71,10 +71,10 @@
 "Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\nBantu kami dengan rating bintang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
-"enable_Share_button" : false,
-"Share_TXT" : "Aplikasi Play Play Penghasil Uang (Dana) Download Now",
+"enable_Share_button" : true,
+"Share_TXT" : "Aplikasi Penghasil Uang (Dana) Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "http://cdn.shareitgames.com/game-incentive/index.html#/share?code=1097410&gUserId=1cdXicuwy7&beyId=30fe4875f85e4e38aad0bfd28a746498"
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
 
   }
 }
