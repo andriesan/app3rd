@@ -16,10 +16,10 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "UNITY",
-"PENGATURAN_IKLAN_NATIVE" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
-"INTERS_COUNT_WEB" : 3,
+"INTERS_COUNT_WEB" : 5,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -28,11 +28,11 @@
 "STARAPPID" : "211119084",
 
 "ADMOB_BANNER" : "ca-app-pub-5674572091025512/2669749960",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_INTER" : "ca-app-pub-5674572091025512/8278010305",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "4526273",
+"UNITY_GAME_ID" : "ISIAN",
 "UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "ISIAN",
@@ -43,7 +43,7 @@
 "HPK_ADMOB2" : "christmas wallpaper latest",
 "HPK_ADMOB3" : "merry christmas wallpaper free",
 "HPK_ADMOB4" : "merry christmas wallpaper HD",
-"HPK_ADMOB5" : "Christmas Live Wallpaper ang happy new year",
+"HPK_ADMOB5" : "Christmas Live Wallpaper and happy new year",
 
     
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
