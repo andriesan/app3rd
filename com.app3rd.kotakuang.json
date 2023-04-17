@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Server KotakUang Ready . . .",
 
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -23,7 +23,7 @@
 "PENGATURAN_IKLAN_inter" : "",
 "PENGATURAN_IKLAN_native" : "",
 
-"INTER_COUNT" : 3,
+"INTER_COUNT" : 6,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
