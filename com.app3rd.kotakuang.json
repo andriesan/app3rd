@@ -20,8 +20,8 @@
  // native hanya bisa admob fan appodeal
  
 "PENGATURAN_IKLAN_banner" : "UNITY",
-"PENGATURAN_IKLAN_inter" : "UNITY",
-"PENGATURAN_IKLAN_native" : "UNITY",
+"PENGATURAN_IKLAN_inter" : "",
+"PENGATURAN_IKLAN_native" : "",
 
 "INTER_COUNT" : 3,
 
@@ -58,7 +58,7 @@
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4231193",
-"UNITY_TEST_MODE" : "false",
+"UNITY_TEST_MODE" : "true",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
