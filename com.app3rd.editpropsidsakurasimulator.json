@@ -41,9 +41,9 @@
 
 "STARTAPPID" : "204619297",
 
-"ADMOB_BANNER" : "", // blm diganti
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "ca-app-pub-5674572091025512/13010162", // blm diganti
+"ADMOB_INTER" : "ca-app-pub-5674572091025512/93775037",
+"ADMOB_NATIV" : "ca-app-pub-5674572091025512/898793458",
 
 "HPK_ALIENDROID" : "Asuransi",
 "HPK_ADMOB1" : "Pinjaman Online",
