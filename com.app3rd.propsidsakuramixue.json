@@ -25,8 +25,8 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
-"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
 "INTER_COUNT" : "4",
@@ -41,9 +41,9 @@
 
 "STARTAPPID" : "205429830", // props mixue
 
-"ADMOB_BANNER" : "ca-app-pub-5674572091025512/9770703682", // admob blm diganti
-"ADMOB_INTER" : "ca-app-pub-5674572091025512/1401259071",
-"ADMOB_NATIV" : "ca-app-pub-5674572091025512/3653550144",
+"ADMOB_BANNER" : "ca-app-pub-5674572091025512/1340844397", // admob sdh puny sendiri
+"ADMOB_INTER" : "ca-app-pub-5674572091025512/4716928725",
+"ADMOB_NATIV" : "",
 
 "HPK_ALIENDROID" : "Asuransi",
 "HPK_ADMOB1" : "Pinjaman Online",
