@@ -25,7 +25,7 @@
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
 "INTER_COUNT" : "5",
@@ -38,10 +38,10 @@
 "MODE_OFFLINE_MP3" : false,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "206437120",
+"STARTAPPID" : "207574647",//punya sendiri king legacy
 
-"ADMOB_BANNER" : "ca-app-pub-5674572091025512/3403847052", punya sendiri
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-5674572091025512/34038470", //punya sendiri king legacy
+"ADMOB_INTER" : "ca-app-pub-5674572091025512/7563567428",// punya sendiri king legacy
 "ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
 
 "HPK_ALIENDROID" : "Insurance",
